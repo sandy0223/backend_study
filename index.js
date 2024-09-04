@@ -15,7 +15,7 @@ app.get('/api/quotes',(req, res) => {
         {
 
             "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-            "Author": "Winston Churchill"
+            "author": "Winston Churchill"
         },
         {
             "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
